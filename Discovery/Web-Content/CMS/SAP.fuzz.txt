@@ -12,6 +12,7 @@
 /sap/bc/gui/sap/its/webgui
 /sap/public/icman/ping
 /sap/admin
+/sap/admin/public/index.html
 /sap/public/info
 /sap/wdisp/admin
 /scripts/wgate
